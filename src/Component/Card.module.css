@@ -1,0 +1,23 @@
+.continerr img{
+    width: 250px;
+}
+.continerr {
+    margin: 10px;
+    background-color: #cecece;
+    border-radius: 7px;
+    overflow: hidden;
+    box-shadow: 5px 5px 10px rgb(189,189,189);
+}
+.continerr h3{
+    margin: 30px 20px 20px;
+    color: #696969;
+
+}
+.continerr p{
+    margin: 0 25px 20px;
+    background-color: rgb(39, 227, 114);
+    color: #fff;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 5px;
+}

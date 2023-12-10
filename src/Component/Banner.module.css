@@ -1,0 +1,26 @@
+.container {
+    width: 100%;
+    position: relative;
+}
+.container img {
+    width:100%;
+    
+}
+.textban{
+    top: 150px;
+    left: 100px;
+    position: absolute;
+    
+}
+.textban h1 {
+    font-size: 7rem;
+    color: white;
+}
+.textban p {
+    font-size: 3.5rem;
+    color: white;
+    margin-top: 20px;
+}
+.textban span {
+    color: red;
+}
